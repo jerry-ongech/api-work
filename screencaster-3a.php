@@ -1,4 +1,4 @@
-
+//99187
 <?php
 $shop = array( array("company"=>"archeNland Limited", "Amounts"=>"100,-1200,300,-700,678" , "Debits"=>1700, "Balance"=>1278),
                array("company"=>"Narnia Gmb", "Amounts"=>"530,-23,670,3,-1299" , "Debits"=>"1299,3", "Balance"=>1203),
